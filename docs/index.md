@@ -41,6 +41,14 @@ Tudo dentro de uma planilha Google Sheets editável, sem instalação.
 
 Se depois de uma semana os CSV gratuitos resolverem sua rotina, ótimo. Se faltar estrutura, a versão completa existe exatamente para isso.
 
+## Conteúdo para freelancers
+
+- [Como organizar finanças de freelancer no Brasil](/freelancer-br-kit/docs/organizar-financas-freelancer)
+- [Proposta comercial para freelancer](/freelancer-br-kit/docs/proposta-comercial-freelancer)
+- [Erros comuns de freelancer no Brasil](/freelancer-br-kit/docs/erros-comuns-freelancer)
+- [Proposta de freelancer não volta: 7 motivos](/freelancer-br-kit/docs/proposta-nao-volta)
+- [Primeiro cliente como freelancer](/freelancer-br-kit/docs/primeiro-cliente-freelancer)
+
 ## Licença
 
 Uso pessoal do comprador. Revenda proibida.
