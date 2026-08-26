@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mestrey0d4-uninter.github.io/freelancer-br-kit/sitemap.xml

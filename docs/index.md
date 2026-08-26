@@ -1,3 +1,7 @@
+---
+title: "Planilhas Gratuitas para Freelancers Brasileiros — Clientes, Projetos e Impostos"
+description: "Kit gratuito com 5 planilhas CSV para freelancers no Brasil: controle de clientes, projetos, pagamentos e cálculo de imposto MEI/Simples. Baixe e use no Google Sheets."
+---
 # Como organizar clientes, projetos e impostos como freelancer no Brasil
 
 Ser freelancer no Brasil significa lidar com três coisas ao mesmo tempo: clientes que somem, projetos que atrasam e impostos que chegam no fim do mês. A maioria dos profissionais começa com anotações espalhadas entre WhatsApp, caderno e planilhas soltas.
