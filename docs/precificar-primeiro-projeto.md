@@ -37,3 +37,13 @@ Se o projeto for curto e você quiser um case, pode aceitar um pouco menos. Mas 
 - Não peça desculpas pelo preço
 
 Cliente que entende o que recebe não briga por R$ 20 a menos.
+
+
+---
+
+## Vá do anotado solto ao controlado
+
+Se você quer parar de recalcular na mão, o **Freelancer BR Kit** (Google Sheets) entrega a base de clientes, projetos, pagamentos e impostos com dashboard automático e fórmulas prontas — pronto para importar em 5 minutos.
+
+👉 [Baixar versão completa no Gumroad](https://yodabug.gumroad.com/l/tsohs)
+

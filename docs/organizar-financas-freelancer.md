@@ -38,3 +38,13 @@ Importa em menos de 5 minutos e usa sem instalação.
 ## Quando trocar de planilha solta para sistema
 
 Se você já atende mais de um cliente por mês e sente que está recalculando a mão toda semana, vale investir em uma versão com fórmulas prontas e dashboard automático.
+
+
+---
+
+## Vá do anotado solto ao controlado
+
+Se você quer parar de recalcular na mão, o **Freelancer BR Kit** (Google Sheets) entrega a base de clientes, projetos, pagamentos e impostos com dashboard automático e fórmulas prontas — pronto para importar em 5 minutos.
+
+👉 [Baixar versão completa no Gumroad](https://yodabug.gumroad.com/l/tsohs)
+

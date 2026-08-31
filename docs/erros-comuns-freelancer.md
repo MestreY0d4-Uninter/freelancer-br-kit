@@ -27,3 +27,13 @@ Follow-up leve pós-entrega gera repetição e indicações.
 
 ## 7. Trabalhar barato para sempre
 Preço baixo nas primeiras entregas pode ser estratégia, mas ficar nele permanentemente limita o crescimento.
+
+
+---
+
+## Vá do anotado solto ao controlado
+
+Se você quer parar de recalcular na mão, o **Freelancer BR Kit** (Google Sheets) entrega a base de clientes, projetos, pagamentos e impostos com dashboard automático e fórmulas prontas — pronto para importar em 5 minutos.
+
+👉 [Baixar versão completa no Gumroad](https://yodabug.gumroad.com/l/tsohs)
+

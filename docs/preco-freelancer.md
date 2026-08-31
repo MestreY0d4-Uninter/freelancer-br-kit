@@ -41,3 +41,13 @@ Muitos freelancers abaixam preço por medo de perder cliente. O que costuma ajud
 - Proposta curta, sem textão
 
 Cliente não paga pelo seu tempo, paga pelo resultado que entende.
+
+
+---
+
+## Vá do anotado solto ao controlado
+
+Se você quer parar de recalcular na mão, o **Freelancer BR Kit** (Google Sheets) entrega a base de clientes, projetos, pagamentos e impostos com dashboard automático e fórmulas prontas — pronto para importar em 5 minutos.
+
+👉 [Baixar versão completa no Gumroad](https://yodabug.gumroad.com/l/tsohs)
+

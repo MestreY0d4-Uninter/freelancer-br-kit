@@ -43,3 +43,13 @@ Freelancer de verdade não depende de sorte: depende de oferta clara, cliente ce
 Para quem quer começar sem complicação, um conjunto simples de planilhas para clientes, projetos, pagamentos e impostos já reduz o caos inicial.
 
 Se depois de uma semana os CSV gratuitos resolverem sua rotina, ótimo. Se faltar estrutura, a versão completa existe exatamente para isso.
+
+
+---
+
+## Vá do anotado solto ao controlado
+
+Se você quer parar de recalcular na mão, o **Freelancer BR Kit** (Google Sheets) entrega a base de clientes, projetos, pagamentos e impostos com dashboard automático e fórmulas prontas — pronto para importar em 5 minutos.
+
+👉 [Baixar versão completa no Gumroad](https://yodabug.gumroad.com/l/tsohs)
+

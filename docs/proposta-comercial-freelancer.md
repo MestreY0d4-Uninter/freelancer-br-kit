@@ -33,3 +33,13 @@ Nas primeiras entregas, pode valer a pena aceitar um valor menor para construir 
 - Exclusões estão escritas?
 
 Se faltar algo, o cliente vai perguntar. E cada pergunta atrasa a decisão.
+
+
+---
+
+## Vá do anotado solto ao controlado
+
+Se você quer parar de recalcular na mão, o **Freelancer BR Kit** (Google Sheets) entrega a base de clientes, projetos, pagamentos e impostos com dashboard automático e fórmulas prontas — pronto para importar em 5 minutos.
+
+👉 [Baixar versão completa no Gumroad](https://yodabug.gumroad.com/l/tsohs)
+

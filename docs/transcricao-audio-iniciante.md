@@ -44,3 +44,13 @@ Ajuste conforme clareza do áudio e complexidade do tema.
 - Empresas que gravam reuniões e precisam de ata
 
 Este guia faz parte do Freelancer BR Kit, um conjunto de conteúdos e planilhas para freelancers brasileiros.
+
+
+---
+
+## Precisa de um TCC pronto nas normas?
+
+Se este conteúdo te ajudou a organizar a produção de conteúdo acadêmico, confira o **Modelo TCC ABNT (NBR 14724)** — documento Word editável com guia anti-reprovação.
+
+👉 [Ver modelo no Gumroad](https://yodabug.gumroad.com/l/jqnliy)
+

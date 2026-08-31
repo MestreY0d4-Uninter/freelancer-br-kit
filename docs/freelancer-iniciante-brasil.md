@@ -36,3 +36,13 @@ Depois de 3 entregas bem avaliadas, aumente preço, restrinja nicho e documente 
 ## Ferramenta mínima
 
 Base estruturada de clientes, projetos e pagamentos reduz retrabalho e ajuda a medir evolução mês a mês.
+
+
+---
+
+## Vá do anotado solto ao controlado
+
+Se você quer parar de recalcular na mão, o **Freelancer BR Kit** (Google Sheets) entrega a base de clientes, projetos, pagamentos e impostos com dashboard automático e fórmulas prontas — pronto para importar em 5 minutos.
+
+👉 [Baixar versão completa no Gumroad](https://yodabug.gumroad.com/l/tsohs)
+

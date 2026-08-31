@@ -35,3 +35,13 @@ Depois de 3 entregas bem avaliadas, suba gradualmente. Repetir valor baixo para 
 ## Dica prática
 
 Se você quer começar sem complicação, pode usar um conjunto simples de planilhas para clientes, projetos e impostos. Importa em minutos e começa a organizar.
+
+
+---
+
+## Vá do anotado solto ao controlado
+
+Se você quer parar de recalcular na mão, o **Freelancer BR Kit** (Google Sheets) entrega a base de clientes, projetos, pagamentos e impostos com dashboard automático e fórmulas prontas — pronto para importar em 5 minutos.
+
+👉 [Baixar versão completa no Gumroad](https://yodabug.gumroad.com/l/tsohs)
+

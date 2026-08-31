@@ -29,3 +29,13 @@ Nas primeiras entregas, valor baixo pode ser usado para construir histórico e r
 ## A regra prática
 
 Comece pequeno, entregue no prazo, peça feedback e documente o resultado. Cliente que volta vale mais do que cliente novo que some.
+
+
+---
+
+## Vá do anotado solto ao controlado
+
+Se você quer parar de recalcular na mão, o **Freelancer BR Kit** (Google Sheets) entrega a base de clientes, projetos, pagamentos e impostos com dashboard automático e fórmulas prontas — pronto para importar em 5 minutos.
+
+👉 [Baixar versão completa no Gumroad](https://yodabug.gumroad.com/l/tsohs)
+
