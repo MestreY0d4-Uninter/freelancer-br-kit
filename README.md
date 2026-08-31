@@ -19,5 +19,11 @@ Kit de planilhas CSV prontas para abrir no Google Sheets / Excel e organizar sua
 ## Versão completa
 A versão paga (no Gumroad) inclui dashboard com gráficos automáticos, fórmulas prontas de DAS/INSS e template de proposta comercial.
 
+👉 [Baixar versão completa](https://yodabug.gumroad.com/l/tsohs) · [Ver site](https://mestrey0d4-uninter.github.io/freelancer-br-kit/)
+
+## Outros produtos
+- [Modelo TCC ABNT (NBR 14724)](https://yodabug.gumroad.com/l/jqnliy) — Word editável + guia anti-reprovação
+- [Google Product Ratings Feed Generator](https://yodabug.gumroad.com/l/ucbnjz) — script Python para feed de avaliações
+
 ---
 *Licença: uso pessoal. Revenda proibida.*
