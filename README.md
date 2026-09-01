@@ -24,6 +24,7 @@ A versão paga (no Gumroad) inclui dashboard com gráficos automáticos, fórmul
 ## Outros produtos
 - [Modelo TCC ABNT (NBR 14724)](https://yodabug.gumroad.com/l/jqnliy) — Word editável + guia anti-reprovação
 - [Google Product Ratings Feed Generator](https://yodabug.gumroad.com/l/ucbnjz) — script Python para feed de avaliações
+- [Controle Financeiro MEI + Carnê-Leão 2026](https://yodabug.gumroad.com/l/rtnxu) — planilha Google Sheets para MEI/autônomos
 
 ---
 *Licença: uso pessoal. Revenda proibida.*
