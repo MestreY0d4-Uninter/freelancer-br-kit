@@ -42,4 +42,4 @@ O primeiro agente útil que a maioria monta é um **robô de relatório**: descr
 
 O **"Claude Agents: kit de automação"** traz os prompts e arquivos de configuração prontos para automação de negócio (prospeção, preços, relatórios e anúncios) — você copia, ajusta o contexto e executa, sem montar tudo do zero.
 
-👉 [Baixe o kit de Claude Agents no Gumroad](https://yodabug.gumroad.com/l/jqnliy)
+👉 [Baixe o kit de automação Freelancer BR no Gumroad](https://yodabug.gumroad.com/l/tsohs)
